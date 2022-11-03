@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">Front-end developer - FIAP</h3>
-<img src="https://www.luiztools.com.br/wp-content/uploads/2020/06/reactJS.png">
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 - 🔭 I’m currently working on [Mobility App](https://github.com/VicDevs/GSWEB)
 

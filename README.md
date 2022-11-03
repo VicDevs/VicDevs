@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">Front-end developer - FIAP</h3>
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://www.luiztools.com.br/wp-content/uploads/2020/06/reactJS.png)
 
 - 🔭 I’m currently working on [Mobility App](https://github.com/VicDevs/GSWEB)
 

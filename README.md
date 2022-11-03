@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on [Mobility App](https://github.com/VicDevs/GSWEB)
 
 <h3 align="left">Connect with me!</h3>
+[Linkedin]([https://github.com/VicDevs/GSWEB](https://www.linkedin.com/in/victor-hugo-da-silva-/))
 <p align="left">
 </p>
 

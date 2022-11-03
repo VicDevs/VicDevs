@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">Front-end developer - FIAP</h3>
 
-- 🔭 I’m currently working on [Aplicação web para auxiliar na mobilidade de forma sustentável](https://github.com/VicDevs/GSWEB)
+- 🔭 I’m currently working on [Mobility App](https://github.com/VicDevs/GSWEB)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

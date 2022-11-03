@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Mobility App](https://github.com/VicDevs/GSWEB)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me!</h3>
 <p align="left">
 </p>
 

@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">Front-end developer - FIAP</h3>
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 - 🔭 I’m currently working on [Mobility App](https://github.com/VicDevs/GSWEB)
 

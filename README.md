@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">Front-end developer - FIAP</h3>
+<h3 align="center">Full-stack developer</h3>
 <img align="center" src = "https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif"  >
 
 - 🔭 I’m currently working on [Mobility App](https://github.com/VicDevs/GSWEB)
